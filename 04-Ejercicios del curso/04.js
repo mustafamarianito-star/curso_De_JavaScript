@@ -11,6 +11,4 @@ while(i < 10) {
     i++;
 }
 
-if(i === 9) {
 console.log("Fuera del while");
-}
